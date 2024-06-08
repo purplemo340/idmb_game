@@ -9,10 +9,7 @@ chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach", True)
 
 driver = webdriver.Chrome(options=chrome_options)
-proxy_addresses = {
-    'http': 'http://72.206.181.123:4145',
-    'https': 'http://191.96.100.33:3128'
-}
+
 
 # response = requests.get("https://www.imdb.com/chart/top/", headers={'Accept-Language': 'en-US,en;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36'})
 # text = response.text
@@ -25,14 +22,14 @@ driver.get("https://www.imdb.com/chart/top/")
 movies=driver.find_elements(By.CLASS_NAME, value="ipc-title--base.ipc-title--on-textPrimary ")
 x=0
 movie_list=[]
+rating_list=[]
 #add movies to a list
 for movie in movies[2:252]:
     movie_list.append(movie.text)
-ratings= driver.find_elements(By.CLASS_NAME, value="ipc-rating-star--base")
+ratings= driver.find_elements(By.CLASS_NAME, value="ratingGroup--imdb-rating")
 for rating in ratings:
-    print(rating.text)
-    x=x+1
-print(x)
+    rating_list.append(rating.text.split('\n')[0])
+
 driver.close()
 
 
