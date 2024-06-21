@@ -31,7 +31,7 @@ rating_list=[]
 
 #add movies to a list
 for movie in movies[2:252]:
-    movie_list.append(movie.text.split(".")[1:])
+    movie_list.append(movie.text.split(".")[1])
 ratings= driver.find_elements(By.CLASS_NAME, value="ratingGroup--imdb-rating")
 for rating in ratings:
     rating_list.append(rating.text.split('\n')[0])
