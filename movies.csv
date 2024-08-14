@@ -1,0 +1,251 @@
+,Movie,Rating
+0, The Shawshank Redemption,9.3
+1, The Godfather,9.2
+2, The Dark Knight,9.0
+3, The Godfather Part II,9.0
+4, 12 Angry Men,9.0
+5, Schindler's List,9.0
+6, The Lord of the Rings: The Return of the King,9.0
+7, Pulp Fiction,8.9
+8, The Lord of the Rings: The Fellowship of the Ring,8.9
+9," The Good, the Bad and the Ugly",8.8
+10, Forrest Gump,8.8
+11, The Lord of the Rings: The Two Towers,8.8
+12, Fight Club,8.8
+13, Inception,8.8
+14, Star Wars: Episode V - The Empire Strikes Back,8.7
+15, The Matrix,8.7
+16, Goodfellas,8.7
+17, One Flew Over the Cuckoo's Nest,8.7
+18, Interstellar,8.7
+19, Se7en,8.6
+20, It's a Wonderful Life,8.6
+21, Seven Samurai,8.6
+22, The Silence of the Lambs,8.6
+23, Saving Private Ryan,8.6
+24, City of God,8.6
+25, Life Is Beautiful,8.6
+26, The Green Mile,8.6
+27, Terminator 2: Judgment Day,8.6
+28, Star Wars: Episode IV - A New Hope,8.6
+29, Back to the Future,8.5
+30, Spirited Away,8.6
+31, The Pianist,8.5
+32, Parasite,8.5
+33, Psycho,8.5
+34, Gladiator,8.5
+35, The Lion King,8.5
+36, Spider-Man: Across the Spider-Verse,8.6
+37, The Departed,8.5
+38, Dune: Part Two,8.5
+39, Léon: The Professional,8.5
+40, American History X,8.5
+41, Whiplash,8.5
+42, The Prestige,8.5
+43, Grave of the Fireflies,8.5
+44, Harakiri,8.6
+45, The Usual Suspects,8.5
+46, Casablanca,8.5
+47, The Intouchables,8.5
+48, Cinema Paradiso,8.5
+49, Modern Times,8.5
+50, Rear Window,8.5
+51, Once Upon a Time in the West,8.5
+52, Alien,8.5
+53, City Lights,8.5
+54, Django Unchained,8.5
+55, Apocalypse Now,8.4
+56, Memento,8.4
+57, WALL·E,8.4
+58, Raiders of the Lost Ark,8.4
+59, 12th Fail,8.9
+60, The Lives of Others,8.4
+61, Sunset Boulevard,8.4
+62, Avengers: Infinity War,8.4
+63, Paths of Glory,8.4
+64, Spider-Man: Into the Spider-Verse,8.4
+65, Witness for the Prosecution,8.4
+66, The Shining,8.4
+67, The Great Dictator,8.4
+68, Aliens,8.4
+69, Inglourious Basterds,8.4
+70, The Dark Knight Rises,8.4
+71, Coco,8.4
+72, Amadeus,8.4
+73, Dr,8.3
+74, Oldboy,8.3
+75, Toy Story,8.3
+76, American Beauty,8.3
+77, Avengers: Endgame,8.4
+78, Braveheart,8.3
+79, Das Boot,8.4
+80, Good Will Hunting,8.3
+81, Princess Mononoke,8.3
+82, Joker,8.4
+83, Your Name,8.4
+84, High and Low,8.4
+85, 3 Idiots,8.4
+86, Once Upon a Time in America,8.3
+87, Singin' in the Rain,8.3
+88, Capernaum,8.4
+89, Come and See,8.4
+90, Requiem for a Dream,8.3
+91, Toy Story 3,8.3
+92, Star Wars: Episode VI - Return of the Jedi,8.3
+93, Eternal Sunshine of the Spotless Mind,8.3
+94, The Hunt,8.3
+95, 2001: A Space Odyssey,8.3
+96, Ikiru,8.3
+97, Reservoir Dogs,8.3
+98, Lawrence of Arabia,8.3
+99, The Apartment,8.3
+100, Incendies,8.3
+101, Oppenheimer,8.3
+102, North by Northwest,8.3
+103, Scarface,8.3
+104, Citizen Kane,8.3
+105, Double Indemnity,8.3
+106, M,8.3
+107, Vertigo,8.3
+108, Full Metal Jacket,8.2
+109, Amélie,8.3
+110, Heat,8.3
+111, Up,8.3
+112, A Clockwork Orange,8.3
+113, To Kill a Mockingbird,8.3
+114, A Separation,8.3
+115, The Sting,8.3
+116, Die Hard,8.2
+117, Indiana Jones and the Last Crusade,8.2
+118, Like Stars on Earth,8.3
+119, Metropolis,8.3
+120, Snatch,8.2
+121, 1917,8.2
+122, L,8.2
+123, Bicycle Thieves,8.3
+124, Hamilton,8.3
+125, Taxi Driver,8.2
+126, Downfall,8.2
+127, Dangal,8.3
+128, Batman Begins,8.2
+129, For a Few Dollars More,8.2
+130, The Wolf of Wall Street,8.2
+131, Green Book,8.2
+132, Some Like It Hot,8.2
+133, The Kid,8.2
+134, The Father,8.2
+135, Judgment at Nuremberg,8.3
+136, The Truman Show,8.2
+137, All About Eve,8.2
+138, Shutter Island,8.2
+139, There Will Be Blood,8.2
+140, Top Gun: Maverick,8.2
+141, Casino,8.2
+142, Jurassic Park,8.2
+143, Ran,8.2
+144, The Sixth Sense,8.2
+145, Pan's Labyrinth,8.2
+146, Unforgiven,8.2
+147, No Country for Old Men,8.2
+148, The Thing,8.2
+149, A Beautiful Mind,8.2
+150, Kill Bill: Vol,8.2
+151, The Treasure of the Sierra Madre,8.2
+152, Yojimbo,8.2
+153, The Great Escape,8.2
+154, Monty Python and the Holy Grail,8.2
+155, Finding Nemo,8.2
+156, Prisoners,8.2
+157, Howl's Moving Castle,8.2
+158, Rashomon,8.2
+159, The Elephant Man,8.2
+160, Dial M for Murder,8.2
+161, Chinatown,8.1
+162, Gone with the Wind,8.2
+163," Lock, Stock and Two Smoking Barrels",8.1
+164, V for Vendetta,8.1
+165, The Secret in Their Eyes,8.2
+166, Inside Out,8.1
+167, Raging Bull,8.1
+168," Three Billboards Outside Ebbing, Missouri",8.1
+169, Trainspotting,8.1
+170, The Bridge on the River Kwai,8.1
+171, Klaus,8.2
+172, Catch Me If You Can,8.1
+173, Fargo,8.1
+174, Warrior,8.1
+175, Spider-Man: No Way Home,8.2
+176, Gran Torino,8.1
+177, Harry Potter and the Deathly Hallows: Part 2,8.1
+178, Million Dollar Baby,8.1
+179, My Neighbor Totoro,8.1
+180, Children of Heaven,8.2
+181, Mad Max: Fury Road,8.1
+182, 12 Years a Slave,8.1
+183, Ben-Hur,8.1
+184, Before Sunrise,8.1
+185, Barry Lyndon,8.1
+186, Blade Runner,8.1
+187, The Grand Budapest Hotel,8.1
+188, Hacksaw Ridge,8.1
+189, Gone Girl,8.1
+190, Dead Poets Society,8.1
+191, Memories of Murder,8.1
+192, In the Name of the Father,8.1
+193, The Gold Rush,8.1
+194," Monsters, Inc",8.1
+195, Wild Tales,8.1
+196, The Deer Hunter,8.1
+197, The General,8.1
+198, On the Waterfront,8.1
+199, Jaws,8.1
+200, Sherlock Jr,8.2
+201, How to Train Your Dragon,8.1
+202, Ratatouille,8.1
+203, Mary and Max,8.1
+204, The Third Man,8.1
+205, The Wages of Fear,8.1
+206, Wild Strawberries,8.1
+207, Ford v Ferrari,8.1
+208, Mr,8.1
+209, Maharaja,8.6
+210, Tokyo Story,8.1
+211, Rocky,8.1
+212, Logan,8.1
+213, The Big Lebowski,8.1
+214, The Seventh Seal,8.1
+215, Room,8.1
+216, Spotlight,8.1
+217, The Terminator,8.1
+218, Hotel Rwanda,8.1
+219, Platoon,8.1
+220, La haine,8.1
+221, Before Sunset,8.1
+222, Pirates of the Caribbean: The Curse of the Black Pearl,8.1
+223, The Passion of Joan of Arc,8.1
+224, Jai Bhim,8.7
+225, The Best Years of Our Lives,8.1
+226, The Exorcist,8.1
+227, Rush,8.1
+228, Network,8.1
+229, The Wizard of Oz,8.1
+230, The Incredibles,8.0
+231, Stand by Me,8.1
+232, Hachi: A Dog's Tale,8.1
+233, The Sound of Music,8.1
+234, The Handmaiden,8.1
+235, My Father and My Son,8.2
+236, To Be or Not to Be,8.1
+237, Into the Wild,8.1
+238, The Battle of Algiers,8.1
+239, Groundhog Day,8.0
+240, The Grapes of Wrath,8.1
+241, The Iron Giant,8.1
+242, Amores Perros,8.1
+243, Rebecca,8.1
+244, Cool Hand Luke,8.1
+245, The Help,8.1
+246, It Happened One Night,8.1
+247, Aladdin,8.0
+248," Paris, Texas",8.1
+249, Dances with Wolves,8.0
