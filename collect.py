@@ -23,11 +23,13 @@ driver = webdriver.Chrome(options=chrome_options)
 #     print(movie.getText().strip())
 driver.get("https://www.imdb.com/chart/top/")
 movies=driver.find_elements(By.CLASS_NAME, value="ipc-title--base.ipc-title--on-textPrimary ")
+pictures = driver.find_elements(By.CLASS_NAME, "ipc-image")
 x=0
 global movie_list
 global rating_list
 movie_list=[]
 rating_list=[]
+
 
 #add movies to a list
 for movie in movies[2:252]:
@@ -46,3 +48,5 @@ print(comb)
 
 f=open("movies.csv", "w")
 comb.to_csv("movies.csv", header=["Movie", "Rating"])
+
+
