@@ -32,3 +32,9 @@ h2{
     margin:20px;
 
 }
+.movies{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}

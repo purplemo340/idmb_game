@@ -1,10 +1,10 @@
 {% include "header.html"%}
 <body>
+<div class="movies">
 <form  action="" method="post">
-<a><button name="choice" value="left"><img src="{{data['url'][index_left]}}"></button></a>
-
-
-<a href="/game"><button name= "choice"  class="h" value="right"><img src="{{data['url'][index_right]}}"></button></a>
+<a><button class= "movie" name="choice" value="left"><img src="{{data['url'][index_left]}}"></button></a>
+<a><button class = "movie" name= "choice"  class="h" value="right"><img src="{{data['url'][index_right]}}"></button></a>
     </form>
+    </div>
 </body>
 </html>
