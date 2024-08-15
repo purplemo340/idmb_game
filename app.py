@@ -70,8 +70,8 @@ def next_right():
 
     else:
         print("Both")
-        index_right = random.randint(0, 250)
-        right = movies["Movie"][index_right]
+        index_left = random.randint(0, 250)
+        left = movies["Movie"][index_left]
         score += 1
     return True
 
@@ -87,6 +87,10 @@ def home():
     index_left = random.randint(0, 250)
     index_right = random.randint(0, 250)
     return render_template("index.html")
+@app.route('/directions', methods=["GET"])
+def directions():
+    print(score)
+    return render_template("directions.html")
 
 @app.route('/game', methods=["GET", "POST"])
 def game():
